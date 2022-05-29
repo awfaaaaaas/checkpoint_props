@@ -1,0 +1,61 @@
+body{
+  background-color: rgb(59, 59, 59);
+}
+.control{
+  display: flex;
+ position: relative;
+ top: 40px;
+ left:  25px;
+ 
+}
+.test{
+  padding-left: 5PX;
+  font-size: 22px;
+  color: rgb(75, 75, 75);
+}
+.control-2{
+  display: flex;
+  position: relative;
+  top: 40px;
+  padding-left: 25px;
+ 
+  
+}
+.bio-2{
+  font-size: 19px;
+  padding-left: 5px;
+  position: relative;
+  bottom: 8px;
+  color: rgb(75, 75, 75);
+  
+  font-family: 'Times New Roman', Times, serif;
+
+}
+.card{
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+  padding-top: 5px;
+}
+#control{
+  background-color: aliceblue;
+  width: 535px;
+  height: 400px;
+  position: relative;
+  left: 389px;
+}
+.div{
+  display: flex;
+  position: relative;
+padding-top: 25px;
+  left: 22px;
+}
+.PP{
+  font-size: 22px;
+  position: relative;
+  top: 3px;
+  padding-left: 4px;
+  font-family: 'Times New Roman', Times, serif;
+
+  color: rgb(75, 75, 75);
+}
